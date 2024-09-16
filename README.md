@@ -16,6 +16,8 @@ https://yoursys10.github.io/first/
 設定画面
 https://github.com/yoursys10/first/settings/pages
 ここでどのディレクトリを公開するかを決められる
+どのブランチを使うかとかも
+you can deceide which branch you use
 
 
 デプロイ画面？
